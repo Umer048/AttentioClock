@@ -1,0 +1,37 @@
+
+name: attentio_clock
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.13.5
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  flutter_local_notifications: 22.3.3
+  timezone: 0.11.2
+  shared_preferences: 2.5.6
+  flutter_timezone: ^5.1.1
+  audioplayers: 6.8.1
+  file_picker: 13.3.2
+  path_provider: 2.1.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/data/islamic/passages.json
+    - assets/data/motivation/passages.json
+    - assets/data/sports/passages.json
+    - assets/sounds/

@@ -1,0 +1,1108 @@
+{
+  "domain": "Sports",
+  "version": 1,
+  "passageCount": 50,
+  "notes": "Educational sports passages. Rules can vary by competition and format; consult the applicable current regulations for official decisions.",
+  "passages": [
+    {
+      "id": "sports-001",
+      "title": "Why Teamwork Matters",
+      "body": "A team may have talented individuals, but talent alone does not guarantee success. Players need to communicate, understand their roles, and support one another. In football, a defender may pass to a midfielder instead of attempting a difficult solo run. In basketball, a player may pass to a teammate in a better position. Teamwork helps a group use its strengths together.",
+      "questions": [
+        {
+          "id": "sports-001-q1",
+          "question": "What is the main benefit of teamwork?",
+          "options": [
+            "It allows every player to ignore their role",
+            "It helps players combine their strengths",
+            "It guarantees that the team never loses",
+            "It removes the need to communicate"
+          ],
+          "correctIndex": 1,
+          "explanation": "Teamwork combines individual abilities through communication, roles, and support.",
+          "references": [
+            "General sports principle"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-002",
+      "title": "Understanding Offside in Football",
+      "body": "The offside rule is designed to prevent attackers from gaining an unfair advantage by waiting close to the opponents’ goal. In general, at the moment a teammate plays the ball, an attacking player is in an offside position if they are nearer to the opponents’ goal line than both the ball and the second-last opponent. Being in an offside position alone is not automatically an offence; involvement in active play matters.",
+      "questions": [
+        {
+          "id": "sports-002-q1",
+          "question": "When is an attacking player’s position judged for offside?",
+          "options": [
+            "When the ball reaches the goal",
+            "At the moment a teammate plays or touches the ball",
+            "When the referee blows the final whistle",
+            "When the goalkeeper catches the ball"
+          ],
+          "correctIndex": 1,
+          "explanation": "Offside position is assessed at the moment the teammate plays or touches the ball, with involvement in active play also required.",
+          "references": [
+            "IFAB Laws of the Game, Law 11"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-003",
+      "title": "What Run Rate Means in Cricket",
+      "body": "A cricket team’s run rate is the average number of runs scored per over. If a team scores 60 runs in 10 overs, its run rate is 6 runs per over. Run rate helps describe scoring speed, but it does not show the full match situation by itself. Wickets remaining, overs left, pitch conditions, and the target can all affect a team’s strategy.",
+      "questions": [
+        {
+          "id": "sports-003-q1",
+          "question": "A team scores 72 runs in 12 overs. What is its run rate?",
+          "options": [
+            "5 runs per over",
+            "6 runs per over",
+            "7 runs per over",
+            "8 runs per over"
+          ],
+          "correctIndex": 1,
+          "explanation": "Run rate is total runs divided by overs: 72 ÷ 12 = 6.",
+          "references": [
+            "Cricket scoring principle"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-004",
+      "title": "The Basketball Shot Clock",
+      "body": "In basketball, the shot clock limits how long a team may control the ball before attempting a shot that reaches the basket under the rules. In major FIBA competitions, the shot-clock period is 24 seconds. This rule encourages attacking play and prevents a team from holding the ball for too long without trying to score.",
+      "questions": [
+        {
+          "id": "sports-004-q1",
+          "question": "What is the main purpose of the shot clock?",
+          "options": [
+            "To give players a rest period",
+            "To encourage teams to attempt a shot within a time limit",
+            "To decide which player is captain",
+            "To measure the total length of the match"
+          ],
+          "correctIndex": 1,
+          "explanation": "The shot clock limits possession time before a qualifying shot attempt.",
+          "references": [
+            "FIBA Official Basketball Rules, shot-clock provisions"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-005",
+      "title": "Why Athletes Warm Up",
+      "body": "A warm-up prepares the body and mind for physical activity. It may include light movement followed by movements related to the sport. A football player might jog and practise controlled changes of direction before intense drills. A warm-up should be appropriate to the athlete and activity; it is not a guarantee against injury, but it can help athletes prepare to perform.",
+      "questions": [
+        {
+          "id": "sports-005-q1",
+          "question": "What is the main purpose of a warm-up?",
+          "options": [
+            "To exhaust the athlete before training",
+            "To prepare the body and mind for activity",
+            "To replace all training",
+            "To guarantee that injuries cannot happen"
+          ],
+          "correctIndex": 1,
+          "explanation": "A warm-up prepares an athlete for the demands of the activity but cannot guarantee injury prevention.",
+          "references": [
+            "General sports-science principle"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-006",
+      "title": "The Purpose of a Cool-Down",
+      "body": "After intense exercise, an athlete may gradually reduce activity by walking or doing gentle movements. This transition is called a cool-down. It gives the body time to move from hard effort toward rest. A cool-down should not be confused with a guarantee that soreness will disappear; recovery also depends on training load, sleep, nutrition, and other factors.",
+      "questions": [
+        {
+          "id": "sports-006-q1",
+          "question": "What does a cool-down help an athlete do?",
+          "options": [
+            "Move gradually from intense activity toward rest",
+            "Immediately increase maximum speed",
+            "Replace sleep and nutrition",
+            "Guarantee no muscle soreness"
+          ],
+          "correctIndex": 0,
+          "explanation": "A cool-down provides a gradual transition from exercise to rest.",
+          "references": [
+            "General sports-science principle"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-007",
+      "title": "Cricket Powerplay",
+      "body": "In limited-overs cricket, powerplay overs have fielding restrictions that influence attacking and defensive decisions. Batters may look for scoring opportunities because fewer fielders are allowed outside the inner circle, while bowlers and captains plan how to limit runs. The exact restrictions depend on the format and playing conditions.",
+      "questions": [
+        {
+          "id": "sports-007-q1",
+          "question": "Why can powerplay overs affect batting strategy?",
+          "options": [
+            "Because the ball becomes larger",
+            "Because fielding restrictions can create scoring opportunities",
+            "Because no bowler is allowed to bowl",
+            "Because the innings automatically ends"
+          ],
+          "correctIndex": 1,
+          "explanation": "Fielding restrictions can create gaps and change risk-reward decisions for batters.",
+          "references": [
+            "ICC Playing Conditions, limited-overs cricket"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-008",
+      "title": "Tennis Scoring",
+      "body": "Tennis uses a distinctive scoring sequence within a game: love, 15, 30, 40, and game. If both players reach 40, the score is called deuce. Under the standard advantage system, a player must win two consecutive points from deuce to win the game: first gaining advantage, then winning the next point.",
+      "questions": [
+        {
+          "id": "sports-008-q1",
+          "question": "What must a player generally do to win a game from deuce under the advantage system?",
+          "options": [
+            "Win one point only",
+            "Win two consecutive points",
+            "Win the next set immediately",
+            "Change sides of the court"
+          ],
+          "correctIndex": 1,
+          "explanation": "From deuce, a player needs advantage and then the following point.",
+          "references": [
+            "International Tennis Federation Rules of Tennis"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-009",
+      "title": "Passing the Baton in a Relay",
+      "body": "In a relay race, each runner completes part of the team’s distance and passes a baton to the next runner within the designated exchange zone. A smooth exchange requires timing, communication, and practice. A team can lose valuable time through a slow handover or be disqualified if the exchange does not follow the rules.",
+      "questions": [
+        {
+          "id": "sports-009-q1",
+          "question": "What is essential for a legal and efficient relay exchange?",
+          "options": [
+            "Passing the baton anywhere on the track",
+            "Timing the handover within the exchange zone",
+            "Throwing the baton to the next runner",
+            "Stopping the race during each exchange"
+          ],
+          "correctIndex": 1,
+          "explanation": "Relay baton exchanges must follow the event's exchange-zone rules and require coordination.",
+          "references": [
+            "World Athletics Competition and Technical Rules"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-010",
+      "title": "Pacing in a Marathon",
+      "body": "A marathon is a long-distance race of 42.195 kilometres. Runners often plan a pace they can sustain instead of starting at maximum speed. Beginning too fast can make the later stages much harder. A sensible pacing strategy considers preparation, conditions, experience, and the runner’s own limits.",
+      "questions": [
+        {
+          "id": "sports-010-q1",
+          "question": "Why is controlled pacing important in a marathon?",
+          "options": [
+            "It helps conserve effort for the full distance",
+            "It guarantees a world record",
+            "It means the runner never needs training",
+            "It makes the course shorter"
+          ],
+          "correctIndex": 0,
+          "explanation": "A sustainable pace helps runners manage effort over a long distance.",
+          "references": [
+            "World Athletics, marathon distance and endurance-racing principles"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-011",
+      "title": "A Penalty Kick in Football",
+      "body": "A penalty kick is awarded for certain direct-free-kick offences committed by a defending player inside their own penalty area while the ball is in play, subject to the Laws of the Game. The kick is taken from the penalty mark. The goalkeeper must follow positioning rules, and other players must remain outside the penalty area and penalty arc until the kick is taken.",
+      "questions": [
+        {
+          "id": "sports-011-q1",
+          "question": "Where is a football penalty kick taken from?",
+          "options": [
+            "The centre circle",
+            "The penalty mark",
+            "The corner arc",
+            "The halfway line"
+          ],
+          "correctIndex": 1,
+          "explanation": "A penalty kick is taken from the penalty mark.",
+          "references": [
+            "IFAB Laws of the Game, Law 14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-012",
+      "title": "What Is a No-Ball in Cricket?",
+      "body": "A no-ball is an illegal delivery under cricket’s playing laws and conditions. Reasons can include certain types of overstepping or dangerous and unfair deliveries. The batting side receives an extra run in many common formats, and the delivery does not count as one of the over’s legal balls. The exact consequences can vary with the type of no-ball and competition rules.",
+      "questions": [
+        {
+          "id": "sports-012-q1",
+          "question": "What is generally true about a no-ball?",
+          "options": [
+            "It is always counted as a legal ball",
+            "It is an illegal delivery and usually gives the batting side an extra run",
+            "It automatically ends the innings",
+            "It means the batter is out"
+          ],
+          "correctIndex": 1,
+          "explanation": "A no-ball is an illegal delivery; common consequences include an extra run and the ball not counting in the over.",
+          "references": [
+            "MCC Laws of Cricket; relevant competition playing conditions"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-013",
+      "title": "The Goalkeeper’s Role",
+      "body": "A football goalkeeper protects the goal, organises the defence, and may help start attacks by distributing the ball. The goalkeeper has special privileges to handle the ball within their own penalty area, subject to the Laws of the Game. Good goalkeeping involves positioning, communication, decision-making, and safe technique.",
+      "questions": [
+        {
+          "id": "sports-013-q1",
+          "question": "Which task is part of a goalkeeper’s role?",
+          "options": [
+            "Using hands anywhere on the field",
+            "Protecting the goal and organising defenders",
+            "Taking every throw-in",
+            "Ignoring the defensive line"
+          ],
+          "correctIndex": 1,
+          "explanation": "Goalkeepers defend the goal and communicate with teammates; handling privileges are limited by the rules.",
+          "references": [
+            "IFAB Laws of the Game, Law 12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-014",
+      "title": "Rebounding in Basketball",
+      "body": "A rebound occurs when a player gains possession of the ball after a missed field-goal or free-throw attempt, subject to the rules. An offensive rebound gives the attacking team another chance to score, while a defensive rebound helps the defending team end the opponent’s possession. Positioning and timing are important for both.",
+      "questions": [
+        {
+          "id": "sports-014-q1",
+          "question": "What does a defensive rebound usually help a team do?",
+          "options": [
+            "Give the opponent another immediate shot",
+            "Gain possession and end the opponent’s attack",
+            "Add three points automatically",
+            "Restart the game from the centre circle"
+          ],
+          "correctIndex": 1,
+          "explanation": "A defensive rebound gives the defending team possession after a missed shot.",
+          "references": [
+            "FIBA Official Basketball Rules"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-015",
+      "title": "Sportsmanship in Competition",
+      "body": "Sportsmanship means competing honestly, respecting opponents and officials, and accepting results without abusive behaviour. A player can be disappointed after losing, but should not insult the other team or deliberately break the rules. Respectful conduct helps make sport fairer and more welcoming for everyone involved.",
+      "questions": [
+        {
+          "id": "sports-015-q1",
+          "question": "Which action demonstrates good sportsmanship?",
+          "options": [
+            "Arguing with officials through insults",
+            "Congratulating opponents and respecting the result",
+            "Cheating when the referee cannot see",
+            "Mocking a teammate after a mistake"
+          ],
+          "correctIndex": 1,
+          "explanation": "Respect, honesty, and fair conduct are central to sportsmanship.",
+          "references": [
+            "Olympic values and general fair-play principles"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-016",
+      "title": "Hydration During Sport",
+      "body": "The body loses water through sweat and breathing, especially during prolonged exercise or hot conditions. Athletes should plan fluid intake according to the activity, environment, and individual needs. Drinking excessively can also be harmful, so more is not always better. Athletes should follow qualified guidance for demanding events and pay attention to their own circumstances.",
+      "questions": [
+        {
+          "id": "sports-016-q1",
+          "question": "Which statement about hydration is most accurate?",
+          "options": [
+            "Every athlete should drink exactly the same amount",
+            "Fluid needs can vary with activity and conditions",
+            "Water is never needed during exercise",
+            "Drinking as much as possible is always safest"
+          ],
+          "correctIndex": 1,
+          "explanation": "Hydration needs vary; excessive fluid intake can also be dangerous.",
+          "references": [
+            "General sports-medicine guidance"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-017",
+      "title": "Strength Training for Athletes",
+      "body": "Strength training can help athletes develop the ability to produce force and control movement. Exercises may use body weight, resistance bands, or weights. Good programmes match the athlete’s age, experience, sport, and goals. Correct technique and gradual progression are more important than lifting the heaviest possible load.",
+      "questions": [
+        {
+          "id": "sports-017-q1",
+          "question": "What should guide an athlete’s strength-training programme?",
+          "options": [
+            "Using the heaviest weight every session",
+            "Age, experience, sport, goals, and sound technique",
+            "Copying every exercise seen online",
+            "Ignoring recovery"
+          ],
+          "correctIndex": 1,
+          "explanation": "Appropriate programming and technique matter more than simply lifting maximum weight.",
+          "references": [
+            "General strength-and-conditioning principles"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-018",
+      "title": "Why Recovery Matters",
+      "body": "Training places demands on the body. Recovery allows athletes to adapt and prepare for future sessions. Sleep, appropriate nutrition, rest days, and sensible training loads all contribute. Training harder every day without recovery can reduce performance and increase the risk of overuse problems. A good programme balances effort with recovery.",
+      "questions": [
+        {
+          "id": "sports-018-q1",
+          "question": "Why should athletes include recovery in a training plan?",
+          "options": [
+            "Because improvement happens only during competition",
+            "Because recovery supports adaptation and readiness for future training",
+            "Because rest removes the need for practice",
+            "Because every athlete needs the same rest schedule"
+          ],
+          "correctIndex": 1,
+          "explanation": "Recovery is part of training adaptation and helps manage fatigue.",
+          "references": [
+            "General sports-science principle"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-019",
+      "title": "The Corner Kick",
+      "body": "A corner kick is awarded when the whole ball passes over the goal line, on the ground or in the air, last touched by a defending player, and a goal is not scored. The attacking team takes the kick from the corner area nearest to where the ball left the field. Teams may use planned movement to create space for a shot.",
+      "questions": [
+        {
+          "id": "sports-019-q1",
+          "question": "When is a corner kick generally awarded?",
+          "options": [
+            "When the attacking team last touches the ball over the goal line",
+            "When the defending team last touches the ball over its own goal line and no goal is scored",
+            "Whenever a player falls",
+            "After every goal"
+          ],
+          "correctIndex": 1,
+          "explanation": "A corner is awarded when the defending team last touches the ball before it crosses its own goal line without a goal being scored.",
+          "references": [
+            "IFAB Laws of the Game, Law 17"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-020",
+      "title": "What Does Taking a Wicket Mean?",
+      "body": "In cricket, a wicket can refer to the dismissal of a batter, the set of stumps and bails, or the pitch depending on context. When a team takes a wicket, it has dismissed a batter. Wickets are important because a batting side has a limited number of dismissals available, and losing them can change its scoring strategy.",
+      "questions": [
+        {
+          "id": "sports-020-q1",
+          "question": "In the phrase “the bowling team took a wicket,” what does wicket mean?",
+          "options": [
+            "The batter was dismissed",
+            "The innings gained ten runs",
+            "The ball became dead for the whole match",
+            "The umpire changed ends"
+          ],
+          "correctIndex": 0,
+          "explanation": "In this match context, taking a wicket means dismissing a batter.",
+          "references": [
+            "MCC Laws of Cricket"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-021",
+      "title": "The Three-Point Line",
+      "body": "In basketball, a successful field goal scored from beyond the three-point line is worth three points. The player’s position is judged according to the rules at the time of the shot. A team may use long-range shooting to stretch the defence, but a three-point attempt can be more difficult than a closer shot.",
+      "questions": [
+        {
+          "id": "sports-021-q1",
+          "question": "How many points is a successful shot from beyond the three-point line worth?",
+          "options": [
+            "One",
+            "Two",
+            "Three",
+            "Four"
+          ],
+          "correctIndex": 2,
+          "explanation": "A successful field goal from beyond the three-point line counts for three points.",
+          "references": [
+            "FIBA Official Basketball Rules"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-022",
+      "title": "Different Swimming Strokes",
+      "body": "Competitive swimming includes several recognised strokes, such as freestyle, backstroke, breaststroke, and butterfly. Each has different body positions, arm movements, and kicking patterns. Learning correct technique helps swimmers move efficiently and follow event rules. Freestyle events generally allow the swimmer to use any style, although front crawl is commonly used because of its speed.",
+      "questions": [
+        {
+          "id": "sports-022-q1",
+          "question": "Which stroke is commonly used in freestyle races?",
+          "options": [
+            "Butterfly only",
+            "Front crawl",
+            "Breaststroke only",
+            "Backstroke only"
+          ],
+          "correctIndex": 1,
+          "explanation": "Freestyle permits any style, and front crawl is commonly chosen for speed.",
+          "references": [
+            "World Aquatics Competition Regulations"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-023",
+      "title": "The Long Jump",
+      "body": "In the long jump, an athlete runs along a runway and takes off from a board or take-off area to land in a sandpit. The measured distance is based on the nearest mark in the landing area made by any part of the body, measured back to the take-off line according to the rules. Speed, take-off technique, and body control all matter.",
+      "questions": [
+        {
+          "id": "sports-023-q1",
+          "question": "What is the athlete trying to maximise in the long jump?",
+          "options": [
+            "Time spent in the air only",
+            "The legal measured distance of the jump",
+            "The height of the runway",
+            "The number of steps after landing"
+          ],
+          "correctIndex": 1,
+          "explanation": "The goal is to achieve the greatest legal measured distance.",
+          "references": [
+            "World Athletics Technical Rules"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-024",
+      "title": "The High Jump",
+      "body": "In the high jump, an athlete attempts to clear a horizontal bar without dislodging it. The athlete chooses an approach and take-off technique, then lands on a safety mat. Competitors usually progress through increasing heights, and the event uses rules for failed attempts and tie-breaking. The Fosbury Flop is a well-known technique in which the athlete goes over the bar back-first.",
+      "questions": [
+        {
+          "id": "sports-024-q1",
+          "question": "What is the main objective in the high jump?",
+          "options": [
+            "To clear the bar at the greatest possible height",
+            "To jump the longest distance horizontally",
+            "To run the fastest lap",
+            "To throw an object the farthest"
+          ],
+          "correctIndex": 0,
+          "explanation": "High jump athletes aim to clear the highest height without dislodging the bar.",
+          "references": [
+            "World Athletics Technical Rules"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-025",
+      "title": "Shot Put Basics",
+      "body": "Shot put is a field event in which an athlete puts, or pushes, a heavy metal ball called a shot from the shoulder. It is not thrown like a baseball. The athlete must stay within the circle and follow the event’s landing-sector and exit rules. Technique, strength, balance, and timing all contribute to distance.",
+      "questions": [
+        {
+          "id": "sports-025-q1",
+          "question": "How is the shot supposed to be released?",
+          "options": [
+            "Pushed from the shoulder",
+            "Kicked from the ground",
+            "Thrown like a baseball overarm",
+            "Rolled along the runway"
+          ],
+          "correctIndex": 0,
+          "explanation": "The shot is put from the shoulder rather than thrown like a ball.",
+          "references": [
+            "World Athletics Technical Rules"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-026",
+      "title": "Drafting in Cycling",
+      "body": "When cyclists ride closely behind another rider, the leading rider blocks some air resistance for the rider behind. This effect is called drafting. It can help the following cyclist save energy, especially at higher speeds. Riders still need to maintain control and leave enough space to respond safely to sudden changes.",
+      "questions": [
+        {
+          "id": "sports-026-q1",
+          "question": "Why does a cyclist draft behind another rider?",
+          "options": [
+            "To increase air resistance",
+            "To reduce the effort needed to overcome air resistance",
+            "To make the bicycle heavier",
+            "To avoid pedalling"
+          ],
+          "correctIndex": 1,
+          "explanation": "Riding in another cyclist’s slipstream can reduce aerodynamic drag.",
+          "references": [
+            "General cycling aerodynamics"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-027",
+      "title": "Rotation in Volleyball",
+      "body": "In indoor volleyball, a team rotates positions in a clockwise direction when it wins the right to serve from the opponent. Rotation helps players take turns in different court positions. Players must follow the correct order at the moment of service, although they can move into tactical positions after the ball is served.",
+      "questions": [
+        {
+          "id": "sports-027-q1",
+          "question": "When does a volleyball team rotate?",
+          "options": [
+            "After every point, regardless of which team served",
+            "When it wins the right to serve from the opponent",
+            "Only at the end of a set",
+            "Whenever the coach asks"
+          ],
+          "correctIndex": 1,
+          "explanation": "The receiving team rotates when it wins the right to serve.",
+          "references": [
+            "FIVB Official Volleyball Rules"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-028",
+      "title": "Three Hits in Volleyball",
+      "body": "A team generally has up to three hits to return the ball over the net, not counting a block contact under the rules. Players often use a pass, a set, and an attack. The sequence requires communication because teammates must avoid letting the ball fall or making an illegal fourth team hit.",
+      "questions": [
+        {
+          "id": "sports-028-q1",
+          "question": "What is the usual maximum number of team hits to return the ball, excluding a block contact?",
+          "options": [
+            "One",
+            "Two",
+            "Three",
+            "Five"
+          ],
+          "correctIndex": 2,
+          "explanation": "The team generally has three hits, with block contact treated separately under the rules.",
+          "references": [
+            "FIVB Official Volleyball Rules"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-029",
+      "title": "A Badminton Rally",
+      "body": "Badminton is played with a shuttlecock, which players hit over a net. A rally continues until the shuttle lands on the court, goes out, fails to cross the net, or a fault occurs. Players use clears, drops, smashes, and net shots to move an opponent and create openings. Accuracy and recovery to a good court position are important.",
+      "questions": [
+        {
+          "id": "sports-029-q1",
+          "question": "What ends a badminton rally?",
+          "options": [
+            "A player changing their grip",
+            "The shuttle landing, going out, or a fault occurring",
+            "A player moving to the back of the court",
+            "The audience cheering"
+          ],
+          "correctIndex": 1,
+          "explanation": "A rally ends when the shuttle is no longer legally in play, such as landing or a fault.",
+          "references": [
+            "Badminton World Federation Laws of Badminton"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-030",
+      "title": "Spin in Table Tennis",
+      "body": "Players can brush the ball at different angles to create topspin, backspin, or sidespin. Spin changes how the ball travels and how it bounces, making it harder for an opponent to return. Reading the racket angle and the ball’s movement helps a player choose an appropriate response.",
+      "questions": [
+        {
+          "id": "sports-030-q1",
+          "question": "Why is spin useful in table tennis?",
+          "options": [
+            "It changes the ball’s movement and bounce",
+            "It makes the table larger",
+            "It allows a player to catch the ball",
+            "It removes the need for footwork"
+          ],
+          "correctIndex": 0,
+          "explanation": "Spin affects flight and bounce, creating challenges for the opponent.",
+          "references": [
+            "International Table Tennis Federation Laws"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-031",
+      "title": "Weight Classes in Boxing",
+      "body": "Boxing competitions use weight classes so that opponents compete within defined weight limits. This helps make matchups more balanced, although weight is not the only factor affecting performance. Skill, experience, conditioning, and strategy also matter. Athletes must follow the event’s weigh-in rules rather than attempting unsafe last-minute weight changes.",
+      "questions": [
+        {
+          "id": "sports-031-q1",
+          "question": "Why are weight classes used in boxing?",
+          "options": [
+            "To guarantee identical skill levels",
+            "To create more balanced matchups based partly on body weight",
+            "To decide who is the referee",
+            "To remove the need for rules"
+          ],
+          "correctIndex": 1,
+          "explanation": "Weight classes help organise fairer matchups by limiting differences in competitor weight.",
+          "references": [
+            "World Boxing competition rules"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-032",
+      "title": "Scoring in Wrestling",
+      "body": "Wrestling rewards actions such as takedowns, exposure, and controlled positions according to the style and competition rules. A takedown generally involves bringing an opponent to the mat while gaining control. The details of scoring differ between freestyle and Greco-Roman wrestling, so athletes must learn the rules of their event.",
+      "questions": [
+        {
+          "id": "sports-032-q1",
+          "question": "What is a takedown in wrestling generally intended to achieve?",
+          "options": [
+            "Bring the opponent to the mat while gaining control",
+            "Send the opponent out of the building",
+            "Stop the match permanently",
+            "Score by kicking the opponent"
+          ],
+          "correctIndex": 0,
+          "explanation": "A takedown involves bringing the opponent down and establishing control under the relevant rules.",
+          "references": [
+            "United World Wrestling rules"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-033",
+      "title": "The Chess Clock",
+      "body": "In timed chess, a chess clock gives each player a limited amount of time to make their moves. After making a move, a player presses their side of the clock, starting the opponent’s time. Managing the clock is part of competitive strategy: a player must balance careful thinking with the need to make moves before time expires.",
+      "questions": [
+        {
+          "id": "sports-033-q1",
+          "question": "Why is a chess clock used?",
+          "options": [
+            "To measure the size of the board",
+            "To limit and manage each player's thinking time",
+            "To decide which pieces are strongest",
+            "To replace the rules of chess"
+          ],
+          "correctIndex": 1,
+          "explanation": "The clock controls each player's allotted time in a timed game.",
+          "references": [
+            "FIDE Laws of Chess"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-034",
+      "title": "The Role of Officials",
+      "body": "Referees and umpires apply the rules of a sport and make decisions during competition. Their role is to support fair play and manage the match. Officials may make difficult decisions under pressure, and systems such as video review are used in some sports and competitions. Players should raise concerns through the proper process rather than intimidation.",
+      "questions": [
+        {
+          "id": "sports-034-q1",
+          "question": "What is the main role of a match official?",
+          "options": [
+            "Support one team regardless of the rules",
+            "Apply the rules and manage the competition",
+            "Choose the winner before the match",
+            "Replace the players"
+          ],
+          "correctIndex": 1,
+          "explanation": "Officials apply the rules and help manage fair competition.",
+          "references": [
+            "General sports-governance principle"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-035",
+      "title": "Leadership by a Team Captain",
+      "body": "A captain can help a team stay organised, communicate with officials when appropriate, and encourage teammates. Good leadership is not simply giving orders. It includes listening, staying composed, accepting responsibility, and setting an example through effort and respect. A captain should support the team’s shared plan rather than seek personal attention.",
+      "questions": [
+        {
+          "id": "sports-035-q1",
+          "question": "Which behaviour shows effective team leadership?",
+          "options": [
+            "Blaming teammates publicly",
+            "Listening, communicating, and setting a positive example",
+            "Ignoring the coach and teammates",
+            "Taking credit for every success"
+          ],
+          "correctIndex": 1,
+          "explanation": "Effective leadership combines communication, responsibility, and example.",
+          "references": [
+            "General team-sport principle"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-036",
+      "title": "Creating Space in Team Sports",
+      "body": "In games such as football and basketball, players can create space by moving away from defenders, making runs, and passing at the right time. A player without the ball can still help the team by drawing a defender away or opening a passing lane. Good tactics involve understanding where teammates and opponents are positioned.",
+      "questions": [
+        {
+          "id": "sports-036-q1",
+          "question": "How can a player without the ball help create space?",
+          "options": [
+            "Stand still in a crowded area",
+            "Move intelligently to draw a defender or open a passing lane",
+            "Ignore the play",
+            "Block a teammate's movement"
+          ],
+          "correctIndex": 1,
+          "explanation": "Off-ball movement can create options and space for teammates.",
+          "references": [
+            "General team-sport tactical principle"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-037",
+      "title": "Communication in Defence",
+      "body": "Defenders need to communicate about opponents, space, and possible threats. A clear call such as “man on” or “switch” can alert a teammate to pressure or a change in marking responsibility. Silence can cause two defenders to leave the same space uncovered. Communication should be brief, early, and understood by the team.",
+      "questions": [
+        {
+          "id": "sports-037-q1",
+          "question": "Why is clear defensive communication important?",
+          "options": [
+            "It helps teammates respond to threats together",
+            "It guarantees that opponents cannot score",
+            "It replaces physical positioning",
+            "It is useful only after the match"
+          ],
+          "correctIndex": 0,
+          "explanation": "Timely communication helps a defensive unit coordinate its actions.",
+          "references": [
+            "General team-sport tactical principle"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-038",
+      "title": "The Importance of Fielding in Cricket",
+      "body": "Fielding is more than stopping boundaries. Fielders can save runs, catch batters out, prevent overthrows, and create pressure through quick and accurate returns. A strong fielding side supports its bowlers by limiting easy scoring opportunities. Concentration matters because one missed chance can change the match.",
+      "questions": [
+        {
+          "id": "sports-038-q1",
+          "question": "How does good fielding support a cricket team?",
+          "options": [
+            "It only makes the match look faster",
+            "It can save runs and create dismissal opportunities",
+            "It replaces the need for bowlers",
+            "It automatically adds runs to the batting side"
+          ],
+          "correctIndex": 1,
+          "explanation": "Fielding can prevent runs and create chances to dismiss batters.",
+          "references": [
+            "MCC Laws of Cricket; general cricket tactics"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-039",
+      "title": "A Declaration in Test Cricket",
+      "body": "In Test cricket, a captain may declare an innings closed even when the team could continue batting. A declaration is a tactical decision intended to give the team enough time to dismiss the opposition and pursue a result. It involves balancing the size of the lead, time remaining, pitch conditions, and match situation.",
+      "questions": [
+        {
+          "id": "sports-039-q1",
+          "question": "Why might a captain declare an innings in Test cricket?",
+          "options": [
+            "To give the opposition more runs automatically",
+            "To leave enough time to try to dismiss the opposition",
+            "Because the innings has reached exactly ten overs",
+            "To cancel the match"
+          ],
+          "correctIndex": 1,
+          "explanation": "A declaration can create time for a team to bowl the opposition out and seek a result.",
+          "references": [
+            "MCC Laws of Cricket, Law 15"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-040",
+      "title": "Football Formations",
+      "body": "A football formation describes how outfield players are arranged across defensive, midfield, and attacking lines. A 4-3-3 formation, for example, usually describes four defenders, three midfielders, and three forwards. Formations can change during a match as players move and coaches adjust tactics. The numbers do not describe the goalkeeper.",
+      "questions": [
+        {
+          "id": "sports-040-q1",
+          "question": "What does the 4-3-3 formation usually represent?",
+          "options": [
+            "Four goalkeepers, three referees, three substitutes",
+            "Four defenders, three midfielders, three forwards",
+            "Four forwards, three defenders, three goalkeepers",
+            "The number of goals expected"
+          ],
+          "correctIndex": 1,
+          "explanation": "The formation numbers describe the usual distribution of outfield players by line.",
+          "references": [
+            "General football tactical convention"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-041",
+      "title": "The Counterattack",
+      "body": "A counterattack happens when a team quickly moves from defending to attacking after winning possession. It can be effective when the opposing team has committed many players forward and left space behind. A successful counterattack needs quick decisions, accurate passing, and support from teammates. Speed alone is not enough if the team loses control of the ball.",
+      "questions": [
+        {
+          "id": "sports-041-q1",
+          "question": "When can a counterattack be especially effective?",
+          "options": [
+            "When the opponent has left space while attacking",
+            "When all teammates stand still",
+            "When the team refuses to move forward",
+            "When passing is deliberately inaccurate"
+          ],
+          "correctIndex": 0,
+          "explanation": "A counterattack can exploit space left by opponents who have moved forward.",
+          "references": [
+            "General team-sport tactical principle"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-042",
+      "title": "What Endurance Means",
+      "body": "Endurance is the ability to sustain physical activity over time. It matters in distance running, cycling, swimming, and many team sports. Athletes develop endurance through appropriately planned training, with gradual increases and recovery. Endurance is different from maximum strength, although sports can require both qualities.",
+      "questions": [
+        {
+          "id": "sports-042-q1",
+          "question": "Which athlete relies strongly on endurance?",
+          "options": [
+            "A marathon runner maintaining effort over a long distance",
+            "A weightlifter performing one maximum lift only",
+            "A sprinter reacting at the start only",
+            "A shooter holding a static position only"
+          ],
+          "correctIndex": 0,
+          "explanation": "A marathon runner must sustain physical effort over an extended period.",
+          "references": [
+            "General sports-science principle"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-043",
+      "title": "Agility in Sport",
+      "body": "Agility is the ability to change direction or body position quickly while maintaining control, often in response to a changing situation. It is useful in sports such as football, basketball, badminton, and tennis. Agility involves more than running fast in a straight line; it includes balance, coordination, and decision-making.",
+      "questions": [
+        {
+          "id": "sports-043-q1",
+          "question": "Which example best demonstrates agility?",
+          "options": [
+            "Running a straight 100-metre sprint only",
+            "Changing direction quickly to respond to an opponent",
+            "Holding a weight without moving",
+            "Standing still for a long period"
+          ],
+          "correctIndex": 1,
+          "explanation": "Agility involves controlled changes of direction or movement in response to demands.",
+          "references": [
+            "General sports-science principle"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-044",
+      "title": "Reaction Time",
+      "body": "Reaction time is the time between noticing a signal and beginning a response. A sprinter reacts to the starting signal, while a goalkeeper responds to a shot. Good performance may depend on anticipation as well as reaction speed. Athletes practise recognising cues so they can prepare their movements earlier.",
+      "questions": [
+        {
+          "id": "sports-044-q1",
+          "question": "What is reaction time?",
+          "options": [
+            "The total length of a match",
+            "The time between a signal and the start of a response",
+            "The number of points scored",
+            "The time needed to recover after sleep"
+          ],
+          "correctIndex": 1,
+          "explanation": "Reaction time measures how quickly a person begins responding after a stimulus.",
+          "references": [
+            "General sports-science principle"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-045",
+      "title": "Flexibility and Movement",
+      "body": "Flexibility refers to the range of movement available at a joint or group of joints. It can help athletes perform sport-specific movements comfortably and with control. Flexibility needs differ between sports and individuals. Training should be appropriate and should not force painful ranges of motion.",
+      "questions": [
+        {
+          "id": "sports-045-q1",
+          "question": "What does flexibility describe?",
+          "options": [
+            "The ability to move a joint through a range of motion",
+            "The number of goals scored",
+            "The speed of a ball",
+            "The weight of sports equipment"
+          ],
+          "correctIndex": 0,
+          "explanation": "Flexibility concerns the available range of movement at joints.",
+          "references": [
+            "General sports-science principle"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-046",
+      "title": "The Principle of Specificity",
+      "body": "The principle of specificity means training should relate to the demands of the sport or performance goal. A swimmer benefits from swimming practice, while a football player needs work on skills and movement patterns used in football. General fitness can support performance, but sport-specific practice helps develop the relevant abilities.",
+      "questions": [
+        {
+          "id": "sports-046-q1",
+          "question": "What does training specificity mean?",
+          "options": [
+            "Every athlete should do exactly the same training",
+            "Training should relate to the demands of the target sport or goal",
+            "Training should avoid practising sport skills",
+            "Only strength training matters"
+          ],
+          "correctIndex": 1,
+          "explanation": "Specific training develops abilities relevant to the activity being prepared for.",
+          "references": [
+            "General sports-training principle"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-047",
+      "title": "Progressive Overload",
+      "body": "Progressive overload means gradually increasing training demands as the body adapts. This may involve adding a small amount of resistance, distance, repetitions, or complexity over time. Increasing too much too quickly can create excessive fatigue and raise injury risk. Progress should be planned and adjusted to the athlete’s response.",
+      "questions": [
+        {
+          "id": "sports-047-q1",
+          "question": "What is a sensible example of progressive overload?",
+          "options": [
+            "Doubling every training load overnight",
+            "Gradually increasing training demand as adaptation allows",
+            "Never changing training difficulty",
+            "Training through serious pain"
+          ],
+          "correctIndex": 1,
+          "explanation": "Progressive overload is gradual and should be matched to recovery and adaptation.",
+          "references": [
+            "General strength-and-conditioning principle"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-048",
+      "title": "Why Athletes Use Training Plans",
+      "body": "A training plan organises sessions around goals, competition dates, skill development, and recovery. It helps athletes avoid random workloads and track what they have done. Plans should be reviewed when performance, health, or circumstances change. A plan is a guide that supports decisions, not a reason to ignore warning signs.",
+      "questions": [
+        {
+          "id": "sports-048-q1",
+          "question": "What is a useful purpose of a training plan?",
+          "options": [
+            "To organise training and recovery around clear goals",
+            "To guarantee victory",
+            "To prevent all changes in schedule",
+            "To make every session equally difficult"
+          ],
+          "correctIndex": 0,
+          "explanation": "A plan helps organise training load, goals, and recovery while remaining adjustable.",
+          "references": [
+            "General sports-training principle"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-049",
+      "title": "Fair Play",
+      "body": "Fair play means following the rules and respecting the spirit of competition. A player should not deliberately deceive officials or harm an opponent to gain an advantage. Fair play also includes respecting teammates, opponents, and spectators. Winning matters in sport, but the manner of competing matters too.",
+      "questions": [
+        {
+          "id": "sports-049-q1",
+          "question": "Which action is against fair play?",
+          "options": [
+            "Following the rules",
+            "Respecting the opponent",
+            "Deliberately trying to injure an opponent",
+            "Accepting an official decision respectfully"
+          ],
+          "correctIndex": 2,
+          "explanation": "Deliberately harming an opponent violates the spirit of fair competition.",
+          "references": [
+            "Olympic values and general fair-play principles"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-050",
+      "title": "Making Sport Inclusive",
+      "body": "Inclusive sport aims to give people with different abilities and backgrounds meaningful opportunities to participate. Adaptations may include modified equipment, accessible facilities, or adjusted formats while preserving the purpose of the activity. Inclusion is not simply allowing someone to attend; it means considering what enables them to take part safely and with dignity.",
+      "questions": [
+        {
+          "id": "sports-050-q1",
+          "question": "What is an example of making sport more inclusive?",
+          "options": [
+            "Refusing all adaptations",
+            "Providing accessible facilities and suitable equipment",
+            "Assuming everyone has identical needs",
+            "Excluding beginners from practice"
+          ],
+          "correctIndex": 1,
+          "explanation": "Inclusion involves practical adaptations that support meaningful participation.",
+          "references": [
+            "International Paralympic Committee inclusion principles"
+          ]
+        }
+      ]
+    }
+  ]
+}
