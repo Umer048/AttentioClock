@@ -1,62 +1,40 @@
-
 class Passage {
   final String id;
   final String title;
   final String body;
   final List<PassageQuestion> questions;
 
-  const Passage({
-    required this.id,
-    required this.title,
-    required this.body,
-    required this.questions,
-  });
+  Passage({required this.id, required this.title, required this.body, required this.questions});
 
   factory Passage.fromJson(Map<String, dynamic> json) {
     return Passage(
-      id: json['id'] as String,
-      title: json['title'] as String,
-      body: json['body'] as String,
-      questions: (json['questions'] as List<dynamic>? ?? [])
-          .map(
-            (item) => PassageQuestion.fromJson(
-              Map<String, dynamic>.from(item as Map),
-            ),
-          )
-          .toList(),
+      id: json['id'] ?? '',
+      title: json['title'] ?? '',
+      body: json['body'] ?? '',
+      questions: (json['questions'] as List? ?? []).map((q) => PassageQuestion.fromJson(q)).toList(),
     );
   }
 }
 
 class PassageQuestion {
-  final String id;
   final String question;
   final List<String> options;
   final int correctIndex;
   final String explanation;
   final List<String> references;
 
-  const PassageQuestion({
-    required this.id,
-    required this.question,
-    required this.options,
-    required this.correctIndex,
-    required this.explanation,
-    this.references = const [],
+  PassageQuestion({
+    required this.question, required this.options, required this.correctIndex,
+    required this.explanation, required this.references,
   });
 
   factory PassageQuestion.fromJson(Map<String, dynamic> json) {
     return PassageQuestion(
-      id: json['id'] as String,
-      question: json['question'] as String,
-      options: (json['options'] as List<dynamic>)
-          .map((item) => item.toString())
-          .toList(),
-      correctIndex: json['correctIndex'] as int,
-      explanation: json['explanation'] as String? ?? '',
-      references: (json['references'] as List<dynamic>? ?? [])
-          .map((item) => item.toString())
-          .toList(),
+      question: json['question'] ?? '',
+      options: List<String>.from(json['options'] ?? []),
+      correctIndex: json['correctIndex'] ?? 0,
+      explanation: json['explanation'] ?? '',
+      references: List<String>.from(json['references'] ?? []),
     );
   }
 }
